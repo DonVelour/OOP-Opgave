@@ -1,0 +1,14 @@
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\TVScreen\TVScreen\bin\Debug\TVScreen.exe.config
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\TVScreen\TVScreen\bin\Debug\TVScreen.exe
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\TVScreen\TVScreen\bin\Debug\TVScreen.pdb
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\TVScreen\TVScreen\obj\Debug\TVScreen.csprojResolveAssemblyReference.cache
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\TVScreen\TVScreen\obj\Debug\TVScreen.csproj.CoreCompileInputs.cache
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\TVScreen\TVScreen\obj\Debug\TVScreen.exe
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\TVScreen\TVScreen\obj\Debug\TVScreen.pdb
+C:\Users\AnZa.skp\Documents\OOP-Opgave\TVScreen\TVScreen\bin\Debug\TVScreen.exe.config
+C:\Users\AnZa.skp\Documents\OOP-Opgave\TVScreen\TVScreen\bin\Debug\TVScreen.exe
+C:\Users\AnZa.skp\Documents\OOP-Opgave\TVScreen\TVScreen\bin\Debug\TVScreen.pdb
+C:\Users\AnZa.skp\Documents\OOP-Opgave\TVScreen\TVScreen\obj\Debug\TVScreen.csprojResolveAssemblyReference.cache
+C:\Users\AnZa.skp\Documents\OOP-Opgave\TVScreen\TVScreen\obj\Debug\TVScreen.csproj.CoreCompileInputs.cache
+C:\Users\AnZa.skp\Documents\OOP-Opgave\TVScreen\TVScreen\obj\Debug\TVScreen.exe
+C:\Users\AnZa.skp\Documents\OOP-Opgave\TVScreen\TVScreen\obj\Debug\TVScreen.pdb
